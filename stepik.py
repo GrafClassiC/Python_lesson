@@ -1955,11 +1955,11 @@ P.S: пользоваться встроенной сортировкой зап
 
 print(*result) # где result - итоговый список
 """
-# m = list(map(int, input().split()))
-# n = list(map(int, input().split()))
-# c = m + n
-# c.sort()
-# print(*c)
+m = list(map(int, input().split()))
+n = list(map(int, input().split()))
+c = m + n
+c.sort()
+print(*c)
 """Т.к sorted/sort запрещено использовать делаем по другому"""
 # n, m = (map(int, input().split()))
 # a = list(map(int, input().split()))
