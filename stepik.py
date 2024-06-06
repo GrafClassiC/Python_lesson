@@ -2180,13 +2180,13 @@ print(*result) # где result - итоговый список
 К примеру для числа 12 делителями являются 1, 2, 3, 4, 6, 12. 
 """
 
-n = int(input())
-i = 2
-while n % i != 0:
-    i += 1
-print(i)
+# n = int(input())
+# i = 2
+# while n % i != 0:
+#     i += 1
+# print(i)
 
-        
+     
 
     
     
