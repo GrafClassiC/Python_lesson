@@ -1,0 +1,9 @@
+codeforces - сайт с задачами
+pytontutor.com разбор написанного кода аналог cscircles
+Программирование на Python с нуля Эксмо - книга с играми
+«Программируем на Python», Доусон Майкл
+https://yoksel.github.io/unicode-table/ юникод
+http://pandas.geekwriter.ru/getting_started/index.html материал по pandos
+
+
+
